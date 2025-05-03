@@ -1,7 +1,7 @@
 # AI Applications Portfolio
 
 ## 👋 About Me
-My name is [Your Name], and this is a portfolio showcasing key assignments, projects, and learnings from the ITAI 2372 course on AI Applications.
+My name is Abdou Fall, and this is a portfolio showcasing key assignments, projects, and learnings from the ITAI 2372 course on AI Applications.
 
 ## 🚀 Highlights
 This repository includes:
@@ -29,8 +29,8 @@ Explore the `/projects` folder for detailed work including:
 [Link if applicable]
 
 ## 📫 Contact
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: lahadf62@gmail.com
+- LinkedIn: www.linkedin.com/in/abdou-lahad-4b32812b4
 - Certifications: [List certifications here]
 
 ---

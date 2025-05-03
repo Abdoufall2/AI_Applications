@@ -26,8 +26,7 @@ Explore the `/projects` folder for detailed work including:
 - **Manufacturing**: Increase efficiency through predictive maintenance and quality control
 
 ## 🔗 GitHub Pages (Optional)
-[Link if applicable]
-
+(https://github.com/Abdoufall2/AI_Applications/blob/main/README%20(1).md)
 ## 📫 Contact
 - Email: lahadf62@gmail.com
 - LinkedIn: www.linkedin.com/in/abdou-lahad-4b32812b4
